@@ -1,3 +1,5 @@
 # htmlproject1
 TESD1100>assignments>html project 1
-The index.html file is my "skeleton" of the weather app 
+The images used in the screen shots for the project are in the images folder. 
+
+Good luck, happy coding.
